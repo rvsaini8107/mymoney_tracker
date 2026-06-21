@@ -1,0 +1,6 @@
+{
+  "name": "myMoney pro tracking",
+  "description": "A professional and user-friendly expense tracker, budget planner, and debt manager with automated monthly savings reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Ambient Shadow Element -->
+    <path
+        android:fillColor="#1E293B"
+        android:fillType="nonZero"
+        android:pathData="M 56,22 A 36,36 0 1,1 55.9, 22 Z" />
+
+    <!-- Circular Outlined Finance Shield -->
+    <path
+        android:fillColor="#065F46"
+        android:strokeColor="#34D399"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M 54,20 A 34,34 0 1,1 53.9, 20 Z" />
+
+    <!-- Upward Trend Chart Line inside -->
+    <path
+        android:fillColor="#D1FAE5"
+        android:pathData="M 38,62 L 50,50 L 58,58 L 74,38 H 64 V 32 H 80 V 48 H 74 V 44 L 58,64 L 50,56 L 38,68 Z" />
+
+    <!-- Glowing Coin in Center Foreground -->
+    <path
+        android:fillColor="#F59E0B"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:pathData="M 44,70 C 44,64.48 48.48,60 54,60 C 59.52,60 64,64.48 64,70 C 64,75.52 59.52,80 54,80 C 48.48,80 44,75.52 44,70 Z" />
+
+    <!-- Indian Rupee / Dollar combined currency motif on the coin -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 55,64 H 51 V 66 H 55 C 57,66 57,68 55,68 H 51 V 70 H 55 C 57.5,70 57.5,73 55,73 H 51 V 75 H 49 V 62 H 57 V 64 Z" />
+</vector>
